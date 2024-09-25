@@ -1,4 +1,4 @@
-mySPPF model:
+#mySPPF model:
 
 class myASPP(nn.Module):
     def __init__(self, in_channel=512, out_channel=256):
