@@ -1,7 +1,3 @@
-#LSKA MODEL:
-import torch.nn as nn
-import torch
-
 class LSKA(nn.Module):
 
     def __init__(self, dim, k_size=7):
